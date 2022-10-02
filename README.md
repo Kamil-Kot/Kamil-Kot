@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Phone Thiri and have experienced working in Solution Consulting, Software Development and Project Management areas.
+
+🧑‍💻 When I'm not at work consulting or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Machine Learning, ✳️ Data Science and ✳️ Data Visualization projects
+
 <!--
 **Kamil-Kot/Kamil-Kot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
