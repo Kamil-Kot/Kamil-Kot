@@ -2,11 +2,13 @@
 
 My name is Kamil Kot and I'm a Data Analyst which focuses mostly on:
 
-✳️ SQL
-✳️ Tableau
-✳️ Advance Excel
-✳️ Data visualization and Data analytics
+✳️SQL
 
+✳️ Tableau
+
+✳️ Advance Excel
+
+✳️ Data visualization and Data analytics
 
 🧑‍💻 When I'm not dealing with Data, you can often find me , learning new stuff, creating portfolio projects, and honing my skills on various areas including Data Visualization and Data Analytics.
 
