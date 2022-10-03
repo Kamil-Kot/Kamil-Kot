@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kamil Kot and I'm a Data Analyst which focuses mostly on:
+My name is Kamil Kot and I'm a Data Analyst located in London, which focuses mostly on:
 
 ✳️SQL
 
