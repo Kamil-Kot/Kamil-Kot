@@ -12,7 +12,7 @@ My name is Kamil Kot and I'm a Data Analyst located in London, which focuses mos
 
 🧑‍💻 When I'm not dealing with Data, you can often find me , learning new stuff, creating portfolio projects, and honing my skills on various areas including Data Visualization and Data Analytics.
 
-🌱 https://public.tableau.com/app/profile/kamil4981    <--- Tableau visualizations, SQL Code for those can be found in my profile.
+🌱 https://public.tableau.com/app/profile/kamil.kot    <--- Tableau visualizations, SQL Code for those can be found in my profile.
 
 <!--
 **Kamil-Kot/Kamil-Kot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
